@@ -20,7 +20,7 @@ Welcome to my **DV200 Major Project Portfolio**! This repository showcases proje
 
 ## 👤 **About Me**
 
-I am currently UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
+I am currently UX Design and Software Development major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
 
 ---
 
@@ -55,11 +55,11 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 - **[View Repository](https://github.com/EnzoDV08/Term_1_Final_Project.git)*
 
 - **Project Preview:**  
-  ![Star Wars Project Preview](#) *(Add an image showcasing the project)*
+  ![](./assets/Screenshot%202024-11-06%20151536.png) 
 
 ---
 
-### 🔵 **Term 2: Luxury Car Rental Application**
+### 🔵 **Term 2: RentalFinder**
 
 - **Project Overview:**  
   As part of a team of five, we developed a React-based luxury car rental application, integrated with MongoDB. The app allows users to rent luxury cars on an hourly or daily basis, with secure data handling through MongoDB.
@@ -72,10 +72,10 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 - **Technologies Used:**  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-- **[View Repository](#)** *(Replace `#` with the actual URL)*
+- **[View Repository](https://github.com/EnzoDV08/DV_200_Group2_Final.git)** 
 
 - **Project Preview:**  
-  ![Luxury Car Rental Project Preview](#) *(Add an image showcasing the project)*
+  ![](./assets/Screenshot%202024-11-06%20151929.png) 
 
 ---
 
@@ -92,14 +92,14 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 - **Technologies Used:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-- **[View Repository](#)** *(Replace `#` with the actual URL)*
+- **[View Repository](https://github.com/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project.git)** 
 
 - **Project Preview:**  
-  ![Property Marketplace Project Preview](#) *(Add an image showcasing the project)*
+  ![](./assets/Screenshot%202024-11-06%20152105.png) 
 
 ---
 
-### 🟣 **Term 4: SuperStore E-commerce Application**
+### 🟣 **Term 4: SuperStore**
 
 - **Project Overview:**  
   A Firebase-based e-commerce platform where users can register as buyers or sellers. Sellers can list products for sale, while buyers can browse, add items to the cart, and make purchases. Firebase powers the authentication and real-time database functionalities.
@@ -112,10 +112,10 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 - **Technologies Used:**  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
 
-- **[View Repository](#)** *(Replace `#` with the actual URL)*
+- **[View Repository](https://github.com/EnzoDV08/SuperStore_DV200_Term_4.git)** 
 
 - **Project Preview:**  
-  ![SuperStore E-commerce Project Preview](#) *(Add an image showcasing the project)*
+  ![](./assets/Screenshot%202024-11-06%20152315.png)
 
 ---
 
@@ -170,16 +170,12 @@ A summary of the tools and technologies used across the projects:
 For inquiries or discussions about my projects, feel free to reach out through the following channels:
 
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [GitHub Profile](#)
+- **PhoneNumber:** 073 662 4471
+- **GitHub:**(https://github.com/EnzoDV08)
 
 ---
 
-## 📝 **Additional Notes**
 
-Each project’s README includes detailed documentation on the **how** and **why** behind each phase of development, covering both technical and UX considerations to support a holistic understanding of each project.
-
----
 
 
 
