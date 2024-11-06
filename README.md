@@ -5,7 +5,7 @@
 <div align="center">
   <img src="#" alt="Your Profile Image" width="150" style="border-radius: 50%;"> <!-- Replace # with your profile image URL -->
   
-  ### 👋 Hello, I'm **Your Name Surname**
+  ### 👋 Hello, I'm **Enzo De Vittorio**
   
   **UX Designer | Software Developer | Open Window Major**
   
@@ -22,7 +22,7 @@ Welcome to my **DV200 Major Project Portfolio**! This repository showcases proje
 
 ## 👤 **About Me**
 
-Hello! I’m a **UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
+Hello! I’m a *Enzo De Vittorio *and I am currently UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
 
 ---
 
@@ -54,7 +54,7 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 - **Technologies Used:**  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Star Wars API](https://img.shields.io/badge/Star%20Wars%20API-black?style=for-the-badge&logo=star-wars&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
   
-- **[View Repository](#)** *(Replace `#` with the actual URL)*
+- **[View Repository](https://github.com/EnzoDV08/Term_1_Final_Project.git)*
 
 - **Project Preview:**  
   ![Star Wars Project Preview](#) *(Add an image showcasing the project)*
