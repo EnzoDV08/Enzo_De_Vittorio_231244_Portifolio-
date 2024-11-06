@@ -1,3 +1,19 @@
+# 🖼️ **Hero Section**
+
+![Your Hero Image](#) *(Add a link to your massive hero image here)*
+
+<div align="center">
+  <img src="#" alt="Your Profile Image" width="150" style="border-radius: 50%;"> <!-- Replace # with your profile image URL -->
+  
+  ### 👋 Hello, I'm **Your Name Surname**
+  
+  **UX Designer | Software Developer | Open Window Major**
+  
+  <p>Welcome to my DV200 Major Project Portfolio! Here, you’ll find my journey through UX design and software development, including projects from Term 1 to Term 4 and beyond. Dive into my work and see how I blend user-centered design with technical expertise to create impactful web applications.</p>
+</div>
+
+---
+
 # 🌟 **DV200 Major Project Portfolio**
 
 Welcome to my **DV200 Major Project Portfolio**! This repository showcases projects from Term 1 to Term 4, each representing a milestone in my journey through **User Experience (UX) Design** and **Software Development**. Each project includes insights into the development process, design rationale, and technical implementation.
@@ -147,10 +163,11 @@ A summary of the tools and technologies used across the projects:
   ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - **Design:**  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
+---
 
-  ## 📞 **Contact Information**
+## 📞 **Contact Information**
 
 For inquiries or discussions about my projects, feel free to reach out through the following channels:
 
