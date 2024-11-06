@@ -143,19 +143,49 @@ Another ongoing project is **Escape Today**, a platform where businesses can sub
 
 ## 📊 **GitHub Repository Statistics**
 
-![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repository-name>?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/<username>/<repository-name>?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repository-name>?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repository-name>?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/<username>/<repository-name>?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/<username>/<repository-name>?style=for-the-badge)
+### Term 1: Star Wars Data Visualization
+
+![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/Term_1_Final_Project?style=for-the-badge)
+
+### Term 2: Luxury Car Rental Application
+
+![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/DV_200_Group2_Final?style=for-the-badge)
+
+### Term 3: Property Marketplace
+
+![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/Enzo_De_Vittorio_231244_Term3-Final-Project?style=for-the-badge)
+
+### Term 4: SuperStore E-commerce Application
+
+![GitHub Repo stars](https://img.shields.io/github/stars/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/EnzoDV08/SuperStore_DV200_Term_4?style=for-the-badge)
 
 ---
 
 ## 📈 **GitHub Profile Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&count_private=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDV08&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoDV08&show_icons=true&count_private=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
