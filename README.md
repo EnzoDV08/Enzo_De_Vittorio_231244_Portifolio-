@@ -169,7 +169,7 @@ A summary of the tools and technologies used across the projects:
 
 For inquiries or discussions about my projects, feel free to reach out through the following channels:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** (231244@virtualwindow.co.za)
 - **PhoneNumber:** 073 662 4471
 - **GitHub:**(https://github.com/EnzoDV08)
 
