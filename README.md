@@ -1,5 +1,3 @@
-# 🖼️ **Hero Section**
-
 ![](./assets/enzoRepo.png) 
 
 <div align="center">
