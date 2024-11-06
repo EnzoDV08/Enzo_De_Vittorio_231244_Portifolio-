@@ -1,39 +1,39 @@
-# 📖 **DV200 Major Project Portfolio**
+# 🌟 **DV200 Major Project Portfolio**
 
-Welcome to my portfolio of major projects completed for the DV200 course. This repository showcases projects from Term 1 to Term 4, each demonstrating different skills in software development and user experience (UX) design. Each project features a README with insights into the development process, design choices, and technical implementation.
+Welcome to my **DV200 Major Project Portfolio**! This repository showcases projects from Term 1 to Term 4, each representing a milestone in my journey through **User Experience (UX) Design** and **Software Development**. Each project includes insights into the development process, design rationale, and technical implementation.
 
 ---
 
 ## 👤 **About Me**
 
-Hello! I'm a **User Experience (UX) Design and Software Development** major at Open Window. My work focuses on creating user-friendly and technically sound web applications, combining the best of design and development to build impactful digital experiences.
+Hello! I’m a **UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
 
 ---
 
-### **Skills & Expertise**
+### 🔧 **Skills & Expertise**
 
-- **Frontend Development:** Creating dynamic and interactive user interfaces with React and integrating REST APIs.
-- **Backend & Database Management:** Skilled in MongoDB, Firebase, MySQL, and PHP, managing and structuring data efficiently.
-- **User-Centered Design:** Designing applications with a focus on usability, accessibility, and engagement.
-- **Team Collaboration:** Experienced in collaborative development with agile workflows and version control (Git & GitHub).
+- **Frontend Development:** Crafting responsive and interactive interfaces using React, with a focus on visual data representation.
+- **Backend & Database Management:** Proficient in MongoDB, Firebase, MySQL, and PHP, ensuring reliable data management and seamless integration.
+- **User-Centered Design:** Incorporating UX principles to prioritize user needs, accessibility, and ease of navigation.
+- **Team Collaboration:** Experienced in agile workflows, version control (Git & GitHub), and effective team communication.
 
 ---
 
 ## 📂 **Project Portfolio**
 
-Below is an overview of my projects across four terms, each with a unique theme and technology stack. Click on the project titles to explore the repositories, and check out the visuals for a quick preview of each project.
+Below is a snapshot of each project from Term 1 to Term 4. Click on the project titles to explore the repositories, and see the visuals for a quick preview of each project.
 
 ---
 
 ### 🟢 **Term 1: Star Wars Data Visualization**
 
 - **Project Overview:**  
-  In this project, I developed a React web application that pulls data from the Star Wars API and visualizes it with charts using Chart.js. This application enables users to explore data from the Star Wars universe in an engaging and interactive format.
+  In this project, I developed a React web application that fetches data from the Star Wars API and visualizes it with Chart.js. This tool lets users explore data from the Star Wars universe interactively.
 
 - **Key Features:**
-  - Integration with the Star Wars API
-  - Dynamic data visualization with Chart.js
-  - Responsive design optimized for multiple screen sizes
+  - Star Wars API integration
+  - Interactive data visualizations
+  - Responsive design for mobile and desktop
 
 - **Technologies Used:**  
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Star Wars API](https://img.shields.io/badge/Star%20Wars%20API-black?style=for-the-badge&logo=star-wars&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
@@ -48,11 +48,11 @@ Below is an overview of my projects across four terms, each with a unique theme 
 ### 🔵 **Term 2: Luxury Car Rental Application**
 
 - **Project Overview:**  
-  As part of a team of five, we built a luxury car rental application using React and MongoDB. Users can rent luxury cars on a daily or hourly basis, with secure and efficient data handling managed by MongoDB.
+  As part of a team of five, we developed a React-based luxury car rental application, integrated with MongoDB. The app allows users to rent luxury cars on an hourly or daily basis, with secure data handling through MongoDB.
 
 - **Key Features:**
-  - Rental pricing options (hourly/daily)
-  - User authentication and account management
+  - Flexible rental pricing (hourly/daily)
+  - User authentication
   - Payment integration for seamless transactions
 
 - **Technologies Used:**  
@@ -68,12 +68,12 @@ Below is an overview of my projects across four terms, each with a unique theme 
 ### 🟠 **Term 3: Property Marketplace**
 
 - **Project Overview:**  
-  Developed as a PHP web application with a MySQL database (using XAMPP), this marketplace allows users to list properties for sale. An admin approval process ensures quality control, and users can interact by leaving comments on listings.
+  I built a PHP web application for a property marketplace, with MySQL as the database. Users can list properties for sale, subject to admin approval, and interact with listings through comments.
 
 - **Key Features:**
   - Property listings with admin approval
-  - User commenting and engagement features
-  - SQL database integration for secure data handling
+  - User commenting and engagement
+  - MySQL integration for secure data handling
 
 - **Technologies Used:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
@@ -88,11 +88,11 @@ Below is an overview of my projects across four terms, each with a unique theme 
 ### 🟣 **Term 4: SuperStore E-commerce Application**
 
 - **Project Overview:**  
-  A Firebase-powered e-commerce platform where users can register as buyers or sellers. Sellers can manage their products, while buyers can browse listings, add items to their cart, and complete purchases. Firebase handles both authentication and real-time data storage.
+  A Firebase-based e-commerce platform where users can register as buyers or sellers. Sellers can list products for sale, while buyers can browse, add items to the cart, and make purchases. Firebase powers the authentication and real-time database functionalities.
 
 - **Key Features:**
-  - User roles (Buyer and Seller) with unique capabilities
-  - Real-time database updates with Firestore
+  - User roles (Buyer/Seller)
+  - Real-time database with Firestore
   - Secure user authentication via Firebase
 
 - **Technologies Used:**  
@@ -107,24 +107,31 @@ Below is an overview of my projects across four terms, each with a unique theme 
 
 ## 📊 **GitHub Repository Statistics**
 
-> *(Here you can add badges or statistics like commit counts, languages used, or other GitHub insights. Optional but recommended for enhancing your profile’s professional appearance.)*
+> *(Consider adding GitHub statistics or badges like commit counts, languages used, or repository stars to give viewers an insight into your activity and contributions.)*
 
 ---
 
 ## 🛠 **Skills & Tools**
 
-Below is a comprehensive list of the tools and technologies I've used throughout my DV200 projects:
+A summary of the tools and technologies used across the projects:
 
-- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
-- **Backend & Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- **Development Environment:** ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-- **Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+- **Frontend:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+- **Backend & Databases:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Development Environment:**  
+  ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Design:**  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
 
 ---
 
 ## 📞 **Contact Information**
 
-I welcome any questions or discussions about my projects. Feel free to reach out to me through the following platforms:
+For inquiries or discussions about my projects, feel free to reach out through the following channels:
 
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
@@ -132,7 +139,12 @@ I welcome any questions or discussions about my projects. Feel free to reach out
 
 ---
 
-## **Additional Notes**
+## 📝 **Additional Notes**
+
+Each project’s README includes detailed documentation on the **how** and **why** behind each phase of development, covering both technical and UX considerations to support a holistic understanding of each project.
+
+---
+
 
 Each project’s README includes detailed documentation on the process, design choices, and technical decisions. I've aimed to provide insights not only into what was built but also into why each decision was made, supporting both technical and UX design perspectives.
 
