@@ -20,7 +20,7 @@ Welcome to my **DV200 Major Project Portfolio**! This repository showcases proje
 
 ## 👤 **About Me**
 
-Hello! I’m a *Enzo De Vittorio *and I am currently UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
+I am currently UX Design and Software Development** major at **Open Window** with a passion for creating digital solutions that are both functional and visually appealing. My focus is on merging **user-centered design principles** with technical expertise to build applications that provide great user experiences.
 
 ---
 
