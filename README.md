@@ -105,6 +105,28 @@ Below is a snapshot of each project from Term 1 to Term 4. Click on the project 
 
 ---
 
+## 🚀 **Current Projects**
+
+### **Lekker Snack Box**
+
+I'm currently working on a web application for **Lekker Snack Box**, a service that allows boarding school students to order snack boxes delivered directly to them. Parents can subscribe to ensure weekly snack deliveries for their children, offering convenience and peace of mind.
+
+- **Key Features:**
+  - Subscription-based weekly deliveries
+  - Secure payment integration for recurring subscriptions
+  - User-friendly interface for easy ordering and management
+
+### **Escape Today**
+
+Another ongoing project is **Escape Today**, a platform where businesses can subscribe to have their services promoted. This service includes partnership with **Fox Firelighters**, which hosts competitions on the platform, offering promotional opportunities for other businesses involved.
+
+- **Key Features:**
+  - Business subscription for advertisement and promotion
+  - Integrated competition platform in partnership with Fox Firelighters
+  - Dynamic promotion options for enhanced visibility
+
+---
+
 ## 📊 **GitHub Repository Statistics**
 
 > *(Consider adding GitHub statistics or badges like commit counts, languages used, or repository stars to give viewers an insight into your activity and contributions.)*
@@ -125,11 +147,10 @@ A summary of the tools and technologies used across the projects:
   ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - **Design:**  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F
 
----
 
-## 📞 **Contact Information**
+  ## 📞 **Contact Information**
 
 For inquiries or discussions about my projects, feel free to reach out through the following channels:
 
@@ -146,7 +167,4 @@ Each project’s README includes detailed documentation on the **how** and **why
 ---
 
 
-Each project’s README includes detailed documentation on the process, design choices, and technical decisions. I've aimed to provide insights not only into what was built but also into why each decision was made, supporting both technical and UX design perspectives.
-
----
 
