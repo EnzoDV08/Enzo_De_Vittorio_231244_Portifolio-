@@ -14,7 +14,7 @@
 
 # 🌟 **DV200 Major Project Portfolio**
 
-Welcome to my **DV200 Major Project Portfolio**! This repository showcases projects from Term 1 to Term 4, each representing a milestone in my journey through **User Experience (UX) Design** and **Software Development**. Each project includes insights into the development process, design rationale, and technical implementation.
+This repository showcases projects from Term 1 to Term 4, each representing a milestone in my journey through **User Experience (UX) Design** and **Software Development**. Each project includes insights into the development process, design rationale, and technical implementation.
 
 ---
 
