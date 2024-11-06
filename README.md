@@ -1,9 +1,9 @@
 # 🖼️ **Hero Section**
 
-![Your Hero Image](./assets/enzoRepo.png) 
+![](./assets/enzoRepo.png) 
 
 <div align="center">
-  <img src="#" alt="Your Profile Image" width="150" style="border-radius: 50%;">
+  <img src="#" width="150" style="border-radius: 50%;">
   
   ### 👋 Hello, I'm **Enzo De Vittorio**
   
