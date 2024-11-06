@@ -1,68 +1,140 @@
-# Enzo_De_Vittorio_231244_Portifolio-
+# 📖 **DV200 Major Project Portfolio**
 
-#This repository includes my Term 1-4 projects for the DV200 Major. Each project is documented with a README, detailing code, assets, and functionality. All links and assets are checked for quality and accessibility, with the latest commits on the main branch. Repositories are public for examiner access.
-
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Welcome to my portfolio of major projects completed for the DV200 course. This repository showcases projects from Term 1 to Term 4, each demonstrating different skills in software development and user experience (UX) design. Each project features a README with insights into the development process, design choices, and technical implementation.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+## 👤 **About Me**
 
-## Badges
+Hello! I'm a **User Experience (UX) Design and Software Development** major at Open Window. My work focuses on creating user-friendly and technically sound web applications, combining the best of design and development to build impactful digital experiences.
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
+---
 
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+### **Skills & Expertise**
 
-## Features
+- **Frontend Development:** Creating dynamic and interactive user interfaces with React and integrating REST APIs.
+- **Backend & Database Management:** Skilled in MongoDB, Firebase, MySQL, and PHP, managing and structuring data efficiently.
+- **User-Centered Design:** Designing applications with a focus on usability, accessibility, and engagement.
+- **Team Collaboration:** Experienced in collaborative development with agile workflows and version control (Git & GitHub).
 
-If your project has a lot of features, list them here.
+---
 
-## How to Contribute
+## 📂 **Project Portfolio**
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+Below is an overview of my projects across four terms, each with a unique theme and technology stack. Click on the project titles to explore the repositories, and check out the visuals for a quick preview of each project.
 
-## Tests
+---
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+### 🟢 **Term 1: Star Wars Data Visualization**
+
+- **Project Overview:**  
+  In this project, I developed a React web application that pulls data from the Star Wars API and visualizes it with charts using Chart.js. This application enables users to explore data from the Star Wars universe in an engaging and interactive format.
+
+- **Key Features:**
+  - Integration with the Star Wars API
+  - Dynamic data visualization with Chart.js
+  - Responsive design optimized for multiple screen sizes
+
+- **Technologies Used:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Star Wars API](https://img.shields.io/badge/Star%20Wars%20API-black?style=for-the-badge&logo=star-wars&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+  
+- **[View Repository](#)** *(Replace `#` with the actual URL)*
+
+- **Project Preview:**  
+  ![Star Wars Project Preview](#) *(Add an image showcasing the project)*
+
+---
+
+### 🔵 **Term 2: Luxury Car Rental Application**
+
+- **Project Overview:**  
+  As part of a team of five, we built a luxury car rental application using React and MongoDB. Users can rent luxury cars on a daily or hourly basis, with secure and efficient data handling managed by MongoDB.
+
+- **Key Features:**
+  - Rental pricing options (hourly/daily)
+  - User authentication and account management
+  - Payment integration for seamless transactions
+
+- **Technologies Used:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+- **[View Repository](#)** *(Replace `#` with the actual URL)*
+
+- **Project Preview:**  
+  ![Luxury Car Rental Project Preview](#) *(Add an image showcasing the project)*
+
+---
+
+### 🟠 **Term 3: Property Marketplace**
+
+- **Project Overview:**  
+  Developed as a PHP web application with a MySQL database (using XAMPP), this marketplace allows users to list properties for sale. An admin approval process ensures quality control, and users can interact by leaving comments on listings.
+
+- **Key Features:**
+  - Property listings with admin approval
+  - User commenting and engagement features
+  - SQL database integration for secure data handling
+
+- **Technologies Used:**  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
+- **[View Repository](#)** *(Replace `#` with the actual URL)*
+
+- **Project Preview:**  
+  ![Property Marketplace Project Preview](#) *(Add an image showcasing the project)*
+
+---
+
+### 🟣 **Term 4: SuperStore E-commerce Application**
+
+- **Project Overview:**  
+  A Firebase-powered e-commerce platform where users can register as buyers or sellers. Sellers can manage their products, while buyers can browse listings, add items to their cart, and complete purchases. Firebase handles both authentication and real-time data storage.
+
+- **Key Features:**
+  - User roles (Buyer and Seller) with unique capabilities
+  - Real-time database updates with Firestore
+  - Secure user authentication via Firebase
+
+- **Technologies Used:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
+
+- **[View Repository](#)** *(Replace `#` with the actual URL)*
+
+- **Project Preview:**  
+  ![SuperStore E-commerce Project Preview](#) *(Add an image showcasing the project)*
+
+---
+
+## 📊 **GitHub Repository Statistics**
+
+> *(Here you can add badges or statistics like commit counts, languages used, or other GitHub insights. Optional but recommended for enhancing your profile’s professional appearance.)*
+
+---
+
+## 🛠 **Skills & Tools**
+
+Below is a comprehensive list of the tools and technologies I've used throughout my DV200 projects:
+
+- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chartdotjs&logoColor=white)
+- **Backend & Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Development Environment:** ![XAMPP](https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+---
+
+## 📞 **Contact Information**
+
+I welcome any questions or discussions about my projects. Feel free to reach out to me through the following platforms:
+
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **GitHub:** [GitHub Profile](#)
+
+---
+
+## **Additional Notes**
+
+Each project’s README includes detailed documentation on the process, design choices, and technical decisions. I've aimed to provide insights not only into what was built but also into why each decision was made, supporting both technical and UX design perspectives.
+
+---
+
