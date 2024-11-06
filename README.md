@@ -1,6 +1,6 @@
 # 🖼️ **Hero Section**
 
-![Your Hero Image](./assets/enzoRepo.png) *(Add a link to your massive hero image here)*
+(./assets/enzoRepo.png) 
 
 <div align="center">
   <img src="#" alt="Your Profile Image" width="150" style="border-radius: 50%;"> <!-- Replace # with your profile image URL -->
