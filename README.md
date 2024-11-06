@@ -143,9 +143,23 @@ Another ongoing project is **Escape Today**, a platform where businesses can sub
 
 ## 📊 **GitHub Repository Statistics**
 
-> *(Consider adding GitHub statistics or badges like commit counts, languages used, or repository stars to give viewers an insight into your activity and contributions.)*
+![GitHub Repo stars](https://img.shields.io/github/stars/<username>/<repository-name>?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/<username>/<repository-name>?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/<username>/<repository-name>?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/<username>/<repository-name>?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/<username>/<repository-name>?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/<username>/<repository-name>?style=for-the-badge)
 
 ---
+
+## 📈 **GitHub Profile Stats**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&count_private=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
 ## 🛠 **Skills & Tools**
 
